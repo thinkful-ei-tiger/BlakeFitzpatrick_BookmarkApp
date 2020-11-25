@@ -1,5 +1,5 @@
 # Bookmark App
-## Live Repo: https://thinkful-ei-tiger.github.io/BlakeFitzpatrick-Bookmark-App/
+## Live Repo: https://thinkful-ei-tiger.github.io/BlakeFitzpatrick_BookmarkApp/
 ### created by: Blake Fitzpatrick
 
 #### 
